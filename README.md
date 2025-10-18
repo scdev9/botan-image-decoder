@@ -7,10 +7,11 @@ BOTAN Satellite Frame Decoder is a Python-based tool that reads raw image transm
 
 The satellite transmits its image data as hex-encoded or binary frame packets, which are stored in a CSV file during signal reception. This program parses those frames, detects valid JPEG headers and end markers, and rebuilds the original image automatically. 
 
-Cam data format is given below,
-![Botan-satellite-Cam-Format](https://lh3.googleusercontent.com/sitesv/AICyYdapstuaL7YKF5-WUeBBqj8BXBQOtCiqNh7QtH4BCSLoIKlW0-u1QtFmGgXpgGL7tZisAVSkqtyubVUqrqYAJ3L9Fvvucy_LUQriZF5ZrddTGeE1Y5lCE-kRMpe5SWQzE6_44lBtiRsCyMAXTBwea7VRsQT70_mF8btSArGkM_ASlJp5Q6PaDsNu635Dx2F3WLq_knVg-cgAtJPN3r5i5-1Pyccbw1QH3tPmHr0=w1280)
+Cam data format is given below,<img width="1280" height="436" alt="cam" src="https://github.com/user-attachments/assets/4cc40ff3-9373-42d0-bf40-3f638482e373" />
+
 # 🚀 Features
 📄 Reads frame data from CSV file (hex or binary format)
+
 
 🧩 Automatically detects JPEG start (FFD8) and end (FFD9) markers
 
