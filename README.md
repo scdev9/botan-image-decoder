@@ -29,6 +29,17 @@ Python 3.8+
 Libraries:
 
 # 🧾 Example Usage
+In terminal run this command:
+Python3 main.py
+
+Output:
+<img width="617" height="178" alt="Screenshot From 2025-10-18 18-41-46" src="https://github.com/user-attachments/assets/e1a7c33d-99a7-4f86-bbd0-dd1774a2399f" />
+
+Enter Image Number (Eg:90)
+Output:
+<img width="617" height="178" alt="Screenshot From 2025-10-18 18-42-06" src="https://github.com/user-attachments/assets/d6795035-ebfe-424b-9d33-088fb0446d26" />
+
+
 # 🖼️ Output Example
 ![botan90](https://github.com/user-attachments/assets/364f054f-7ca9-4dc2-a36e-bc5644a69199)
 
