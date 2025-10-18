@@ -31,9 +31,9 @@ Libraries:
 # 🧾 Example Usage
 In terminal run this command:
 ````
-```
+
 python3 main.py
-```
+
 ````
 
 
