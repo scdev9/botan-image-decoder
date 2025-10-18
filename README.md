@@ -30,5 +30,7 @@ Libraries:
 
 # 🧾 Example Usage
 # 🖼️ Output Example
+![botan90](https://github.com/user-attachments/assets/364f054f-7ca9-4dc2-a36e-bc5644a69199)
+
 # 📚 License
 This project is licensed under the MIT License — free for personal and research use.
