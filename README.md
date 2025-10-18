@@ -30,7 +30,12 @@ Libraries:
 
 # 🧾 Example Usage
 In terminal run this command:
-Python3 main.py
+````
+```
+python3 main.py
+```
+````
+
 
 Output:
 
